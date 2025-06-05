@@ -1,0 +1,24 @@
+{
+    "andi": [
+        {
+            "waktu": "2025-06-04 07:56:09",
+            "jenis": "Setor ke Tabungan",
+            "rekening": "1111",
+            "jumlah": 30000
+        },
+        {
+            "waktu": "2025-06-04 08:02:03",
+            "jenis": "Tarik dari Tabungan",
+            "rekening": "1111",
+            "jumlah": 100000
+        }
+    ],
+    "budi": [
+        {
+            "waktu": "2025-06-04 07:57:11",
+            "jenis": "Setor ke Tabungan",
+            "rekening": "2222",
+            "jumlah": 200000
+        }
+    ]
+}
